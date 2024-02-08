@@ -6,7 +6,7 @@ class TagCreatorView:
         responsability for interacting with HTTP
     '''
 
-    def validade_and_create(self, http_request: HttpRequest) -> HttpResponse:
+    def validate_and_create(self, http_request: HttpRequest) -> HttpResponse:
         # body = http_request.body
         # product_code = body["product_code"]
 
