@@ -1,7 +1,7 @@
 from typing import Dict
 from src.drivers.barcode_handler import BarcodeHandler
 
-class CreateTagController:
+class TagCreatorController:
     '''
         responsability for implementing business rules
     '''
